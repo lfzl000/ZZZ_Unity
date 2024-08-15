@@ -1,0 +1,26 @@
+{
+  "name": "com.zl.zzzu.audiomanager",
+  "displayName": "ZZZ_U_AudioManager",
+  "description": "ZZZ_U 音频管理器",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "license": "MIT",
+  "author": {
+    "name": "zhaoliang",
+    "email": "zhaoliang_71@163.com",
+    "url": "https://github.com/lfzl000/ZZZ_Unity"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "audiomanager",
+    "zzz_u"
+  ],
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Demo",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
